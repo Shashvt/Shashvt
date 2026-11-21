@@ -4323,14 +4323,14 @@
     <line x1="460" y1="105" x2="1140" y2="105" stroke="#E2E8F0" stroke-width="1"/>
 
     <text x="460" y="135" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Subject</text>
-    <text x="528" y="135" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1140" y="135" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="117" lengthAdjust="spacingAndGlyphs">Shashvt Sharma</text>
+    <text x="528" y="135" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+    <text x="1140" y="135" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="58" lengthAdjust="spacingAndGlyphs">SHASHVT</text>
     <text x="460" y="158" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Role</text>
     <text x="503" y="158" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . </text>
     <text x="1140" y="158" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="302" lengthAdjust="spacingAndGlyphs">Computer Science Engineering Student</text>
     <text x="460" y="181" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Origin</text>
-    <text x="520" y="181" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1140" y="181" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="117" lengthAdjust="spacingAndGlyphs">Patiala, India</text>
+    <text x="520" y="181" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+    <text x="1140" y="181" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="168" lengthAdjust="spacingAndGlyphs">Yamunanagar, Haryana</text>
     <text x="460" y="204" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Education</text>
     <text x="545" y="204" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . </text>
     <text x="1140" y="204" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="336" lengthAdjust="spacingAndGlyphs">B.Tech CSE, Thapar Inst. of Eng. &amp; Tech.</text>
@@ -4355,15 +4355,12 @@
     <text x="460" y="365" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.Mail</text>
     <text x="545" y="365" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
     <text x="1140" y="365" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="201" lengthAdjust="spacingAndGlyphs">sshashvt_be24@thapar.edu</text>
-    <text x="460" y="388" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.Portfolio</text>
-    <text x="587" y="388" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1140" y="388" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="92" lengthAdjust="spacingAndGlyphs">coming soon</text>
-    <text x="460" y="411" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.LinkedIn</text>
-    <text x="579" y="411" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1140" y="411" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="159" lengthAdjust="spacingAndGlyphs">shashvt-‎-1901102b7</text>
-    <text x="460" y="434" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.GitHub</text>
-    <text x="562" y="434" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
-    <text x="1140" y="434" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="58" lengthAdjust="spacingAndGlyphs">Shashvt</text>
+    <text x="460" y="388" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.LinkedIn</text>
+    <text x="579" y="388" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+    <text x="1140" y="388" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="159" lengthAdjust="spacingAndGlyphs">shashvt-‎-1901102b7</text>
+    <text x="460" y="411" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14">Grid.GitHub</text>
+    <text x="562" y="411" fill="#CBD5E1" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" letter-spacing="3">. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . </text>
+    <text x="1140" y="411" text-anchor="end" fill="#0F172A" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="14" textLength="58" lengthAdjust="spacingAndGlyphs">Shashvt</text>
 
     <line x1="460" y1="485" x2="1140" y2="485" stroke="#E2E8F0" stroke-width="1"/>
     
@@ -4371,6 +4368,6 @@
     <text x="460" y="520" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600">&gt; STATUS: ALL SYSTEMS NOMINAL</text>
     <text x="460" y="540" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Dither: Floyd-Steinberg | 94 Drift Bands | 3-Logo Morph</text>
     <text x="1140" y="520" text-anchor="end" fill="#0891B2" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">1180×610 px</text>
-    <text x="1140" y="540" text-anchor="end" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Patiala, IN (30.34° N, 76.39° E)</text>
+    <text x="1140" y="540" text-anchor="end" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Yamunanagar, IN (30.13° N, 77.29° E)</text>
   </g>
 </svg>

@@ -311,9 +311,9 @@ def build_info_panel_svg(theme):
     # Row specifications (Master Prompt layout, adapted to user specifications)
     rows_data = [
         # General Info
-        ("Subject", "Shashvt Sharma"),
+        ("Subject", "SHASHVT"),
         ("Role", "Computer Science Engineering Student"),
-        ("Origin", "Patiala, India"),
+        ("Origin", "Yamunanagar, Haryana"),
         ("Education", "B.Tech CSE, Thapar Inst. of Eng. & Tech."),
         ("Status", "Building + Learning + Shipping"),
         ("ToolChain", "VS Code, Git, GitHub, MATLAB"),
@@ -324,7 +324,6 @@ def build_info_panel_svg(theme):
         ("Core.Database", "MySQL, PostgreSQL"),
         # Contacts & Grid
         ("Grid.Mail", "sshashvt_be24@thapar.edu"),
-        ("Grid.Portfolio", "coming soon"),
         ("Grid.LinkedIn", "shashvt-‎-1901102b7"),
         ("Grid.GitHub", "Shashvt")
     ]
@@ -533,7 +532,7 @@ def generate_svg(theme, dither_matrix, pts_react, pts_python, pts_github):
     <text x="460" y="520" fill="{chrome_color}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12" font-weight="600">&gt; STATUS: ALL SYSTEMS NOMINAL</text>
     <text x="460" y="540" fill="{label_color}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Dither: Floyd-Steinberg | 94 Drift Bands | 3-Logo Morph</text>
     <text x="1140" y="520" text-anchor="end" fill="{chrome_color}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="12">1180×610 px</text>
-    <text x="1140" y="540" text-anchor="end" fill="{label_color}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Patiala, IN (30.34° N, 76.39° E)</text>
+    <text x="1140" y="540" text-anchor="end" fill="{label_color}" font-family="ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,monospace" font-size="11">Yamunanagar, IN (30.13° N, 77.29° E)</text>
   </g>
 </svg>
 """
